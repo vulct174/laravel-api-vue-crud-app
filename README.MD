@@ -208,4 +208,5 @@ npm run test
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<!-- GitAds-Verify: CYSELQHFECLQVFUXGP694E312VUZAHAH -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=vulct174/laravel-api-vue-crud-app@github)](https://gitads.dev/v1/ad-track?source=vulct174/laravel-api-vue-crud-app@github)
